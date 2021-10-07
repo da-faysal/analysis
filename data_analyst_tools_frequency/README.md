@@ -1,2 +1,2 @@
-# 30 Jan, 2020
-# Scrape data analyst jobsfrom reed.co.uk and check wich jobs require tools like 'python','R', 'sql', and 'excel' looking for those strings in the jobs description. And create a csv file with the tools mentioned or not mentioned.
+### 30 Jan, 2020
+#### Finds the most preferred data analyst tools like 'python','R', 'sql', and 'excel', 'powerbi' on Reed's job posting data.
